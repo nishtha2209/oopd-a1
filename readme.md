@@ -1,0 +1,1 @@
+The repository includes the C++ and shell script work that I submitted for OOPD Assignment 1, with a focus on basic programming techniques that make use of direct system calls rather than the standard libraries.
